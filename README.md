@@ -1,1 +1,2 @@
-# odin-recipes This is my first odin project on html Alhadulliahi
+# odin-recipes is my odin first project base on my html skill
+
