@@ -1,0 +1,23 @@
+.ext {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.odd-numbers {
+    background-color: rgb(255, 182, 193);
+    font-size: 24px;
+    
+}
+#two {
+    color: blue;
+    font-size: 36px
+}
+
+#four {
+    background-color: 	rgb(144, 238, 144) ;
+    font-size: 24px;
+    font-weight: bold;
+}
