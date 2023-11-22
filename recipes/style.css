@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h1{
+    color: pink;
+   text-align: center;
+  }
+
+  h3{
+    color: red;
+
+  }
+  
+  img{
+    width: 500px;
+    height: 300px;
+    margin-left: 200px;
+    
+   border-radius: 8px;
+   
+  }
